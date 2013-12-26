@@ -191,6 +191,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = Eisoo;
 				TargetAttributes = {
+					2D36C644186C047D000391D1 = {
+						DevelopmentTeam = ZW2L44W26F;
+					};
 					2D36C65F186C047D000391D1 = {
 						TestTargetID = 2D36C644186C047D000391D1;
 					};
@@ -317,6 +320,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "2D92302C-0FE1-457A-9D36-48B87B3BA2BA";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -349,6 +353,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PROVISIONING_PROFILE = "2D92302C-0FE1-457A-9D36-48B87B3BA2BA";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -359,6 +364,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "testBot/testBot-Prefix.pch";
 				INFOPLIST_FILE = "testBot/testBot-Info.plist";
@@ -372,6 +378,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "testBot/testBot-Prefix.pch";
 				INFOPLIST_FILE = "testBot/testBot-Info.plist";
@@ -441,6 +448,7 @@
 				2D36C673186C047D000391D1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2D36C674186C047D000391D1 /* Build configuration list for PBXNativeTarget "testBotTests" */ = {
 			isa = XCConfigurationList;
@@ -449,6 +457,7 @@
 				2D36C676186C047D000391D1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
