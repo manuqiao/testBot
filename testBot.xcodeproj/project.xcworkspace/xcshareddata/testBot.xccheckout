@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>2AC3AB46-2604-4D20-91A2-05047AF83DD0</string>
+	<string>3F24F3D8-6E8D-40C6-B8B4-5C1A4688B0E3</string>
 	<key>IDESourceControlProjectName</key>
 	<string>testBot</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -20,11 +20,6 @@
 		<key>1294675D-E6DC-4164-92A2-F63255D3D981</key>
 		<string>../..</string>
 	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>1294675D-E6DC-4164-92A2-F63255D3D981</key>
-		<string>svn://192.168.1.15/eisoo</string>
-	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>svn://192.168.1.15/eisoo/trunk/eisoo/ai/ios/apps/testBot/testBot.xcodeproj</string>
 	<key>IDESourceControlProjectVersion</key>
@@ -34,14 +29,8 @@
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
-			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
-			<string>branches</string>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
-			<string>tags</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
-			<string>trunk</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>1294675D-E6DC-4164-92A2-F63255D3D981</string>
 			<key>IDESourceControlWCCName</key>
